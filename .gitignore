@@ -1,0 +1,3 @@
+.proofy/
+__pycache__/
+*.pyc
